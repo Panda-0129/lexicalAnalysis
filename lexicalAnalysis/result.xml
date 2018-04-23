@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<root>
+<Token>
+	<type>comment</type>
+	<string>//测试用例</string>
+</Token>
+<Token>
+	<type>less equal	</type>
+	<string><=</string>
+</Token>
+<Token>
+	<type>greater equal	</type>
+	<string>>=</string>
+</Token>
+<Token>
+	<type>two-ch operator</type>
+	<string>==</string>
+</Token>
+<Token>
+	<type>two-ch operator</type>
+	<string>!=</string>
+</Token>
+<Token>
+	<type>less than</type>
+	<string><</string>
+</Token>
+<Token>
+	<type>greater than	</type>
+	<string>></string>
+</Token>
+<Token>
+	<type>single-ch operator</type>
+	<string>+</string>
+</Token>
+<Token>
+	<type>num</type>
+	<string>-3.1415926</string>
+</Token>
+<Token>
+	<type>reserved word	</type>
+	<string>BEgin</string>
+</Token>
+<Token>
+	<type>identifier	</type>
+	<string>x</string>
+</Token>
+<Token>
+	<type>two-ch operator</type>
+	<string>:=</string>
+</Token>
+<Token>
+	<type>num</type>
+	<string>9</string>
+</Token>
+<Token>
+	<type>Separator</type>
+	<string>;</string>
+</Token>
+<Token>
+	<type>reserved word	</type>
+	<string>if</string>
+</Token>
+<Token>
+	<type>identifier	</type>
+	<string>x</string>
+</Token>
+<Token>
+	<type>greater than	</type>
+	<string>></string>
+</Token>
+<Token>
+	<type>num</type>
+	<string>0</string>
+</Token>
+<Token>
+	<type>reserved word	</type>
+	<string>then</string>
+</Token>
+<Token>
+	<type>identifier	</type>
+	<string>x</string>
+</Token>
+<Token>
+	<type>two-ch operator</type>
+	<string>:=</string>
+</Token>
+<Token>
+	<type>num</type>
+	<string>2</string>
+</Token>
+<Token>
+	<type>single-ch operator</type>
+	<string>*</string>
+</Token>
+<Token>
+	<type>identifier	</type>
+	<string>x</string>
+</Token>
+<Token>
+	<type>single-ch operator</type>
+	<string>+</string>
+</Token>
+<Token>
+	<type>num</type>
+	<string>1</string>
+</Token>
+<Token>
+	<type>single-ch operator</type>
+	<string>/</string>
+</Token>
+<Token>
+	<type>num</type>
+	<string>3</string>
+</Token>
+<Token>
+	<type>reserved word	</type>
+	<string>end</string>
+</Token>
+</root>
